@@ -14,7 +14,7 @@ This assignment performs file management operations using Node.js core `fs` modu
 
 1. Open terminal in project directory:
    ```bash
-   cd /Users/yashtambade56-ux/nodejs/Assignment4
+   cd /Users/sameermishra-ux/nodejs/Assignment4
    ```
 
 2. Run the script:
