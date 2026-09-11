@@ -28,7 +28,7 @@ This assignment performs file management operations using Node.js core `fs` modu
 File created successfully
 
 --- Student Details ---
-Name: Yash Tambade
+Name: Sameer Mishra
 Course: Full Stack Web Dev.
 Technology: HTML, CSS, JavaScript, Node.js
 
