@@ -3,7 +3,7 @@
 ## Run
 
 ```bash
-cd Assignments_09
+cd Assignments 09
 npm install
 npm run Assignment9
 ```
