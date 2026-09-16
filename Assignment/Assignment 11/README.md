@@ -3,12 +3,12 @@
 ## Run
 
 ```bash
-cd assignments_8_11
+cd Assignments 11
 npm install
 npm run assignment11
 ```
 
-The app uses MongoDB database `assignment11` by default and listens on port `3003`.
+The app uses MongoDB database `Assignment 11` by default and listens on port `3003`.
 
 ## Endpoints
 
