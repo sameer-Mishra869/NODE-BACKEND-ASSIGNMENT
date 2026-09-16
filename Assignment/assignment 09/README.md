@@ -1,14 +1,14 @@
-# Assignment 9: Update and Delete Users
+# Assignment 09: Update and Delete Users
 
 ## Run
 
 ```bash
-cd assignments_8_11
+cd Assignments_09
 npm install
-npm run assignment9
+npm run Assignment9
 ```
 
-The API uses MongoDB database `assignment9` by default and listens on port `3001`.
+The API uses MongoDB database `Assignment9` by default and listens on port `3001`.
 
 ## Endpoints
 
