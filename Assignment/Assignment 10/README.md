@@ -5,9 +5,9 @@
 Create a Firebase service account in the Firebase Console, enable Firestore, and put its project ID, client email, and private key in the root `.env` using the names in `.env.example`.
 
 ```bash
-cd assignments_8_11
+cd Assignments 10
 npm install
-npm run assignment10
+npm run Assignment10
 ```
 
 ## Endpoint
